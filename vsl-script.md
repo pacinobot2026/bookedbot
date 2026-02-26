@@ -1,0 +1,127 @@
+# BookedBot VSL Script
+## Duration: ~3 minutes
+
+---
+
+**[PATTERN INTERRUPT - 0:00]**
+
+Every night after 5pm, you're losing money.
+
+Not because you're bad at your job.
+
+Because you can't answer the phone.
+
+---
+
+**[PROBLEM - 0:15]**
+
+Here's what happens to local businesses every single day:
+
+A customer has an emergency. Pipe bursts. AC dies. Tooth aches.
+
+They call you at 7pm. Voicemail.
+
+They call your competitor. Someone answers.
+
+Guess who gets the job?
+
+This isn't occasional. A study found 62% of calls to local businesses go unanswered.
+
+62 percent.
+
+And 78% of customers hire the first business that responds.
+
+Do the math. That's tens of thousands of dollars. Walking out the door. Every year.
+
+---
+
+**[AGITATE - 0:50]**
+
+And it's not your fault.
+
+You can't be on the phone while you're on a job.
+
+You can't answer texts while you're with a patient.
+
+You can't hire a full-time receptionist for 35 thousand a year.
+
+So the calls go to voicemail. The leads go cold. The money goes to your competitors.
+
+And you're stuck wondering why business is slow... when the answer is sitting in your missed calls.
+
+---
+
+**[SOLUTION - 1:20]**
+
+What if there was a way to answer every call, every text, every inquiry... 24 hours a day, 7 days a week?
+
+Without hiring anyone. Without being glued to your phone.
+
+That's exactly what BookedBot does.
+
+BookedBot is your AI-powered receptionist. It answers calls. Qualifies leads. Books appointments directly into your calendar.
+
+While you sleep. While you work. While you live your life.
+
+---
+
+**[MECHANISM - 1:50]**
+
+Here's how it works:
+
+Customer calls after hours. Instead of voicemail, they get a professional AI assistant.
+
+The AI asks the right questions. What's the problem? When do they need service? What's their budget?
+
+Then it books them directly into your calendar. Sends confirmation. Done.
+
+You wake up to a notification: New appointment booked. Monday 10am. Water heater replacement.
+
+No phone tag. No lost leads. No stress.
+
+---
+
+**[PROOF - 2:15]**
+
+One plumber told me he checked his missed calls from a single weekend.
+
+Three emergency jobs. All went to competitors.
+
+That's fifteen hundred dollars. Gone. From two days.
+
+With BookedBot, those three jobs get booked automatically.
+
+At $497 one-time, the system pays for itself with ONE captured lead.
+
+---
+
+**[OFFER - 2:40]**
+
+Here's what you get:
+
+AI script templates for 10 different industries.
+Complete setup training. Step by step.
+Calendar integration guides.
+SMS and voice templates.
+Lead qualification framework.
+30-day implementation roadmap.
+
+Everything you need to never miss another lead.
+
+---
+
+**[CTA - 3:00]**
+
+The investment is $497. One time. Lifetime access.
+
+And you're protected by our 30-Day First Booking Guarantee.
+
+Set it up. Follow the training. If you don't get at least one AI-booked appointment within 30 days, full refund.
+
+Every hour you wait, leads are calling your competitors.
+
+Click the button below. Get BookedBot. Stop losing money while you sleep.
+
+---
+
+**[END - 3:15]**

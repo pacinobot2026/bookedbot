@@ -235,11 +235,11 @@ export default function Home() {
           </p>
         </div>
 
-        {/* VSL Placeholder */}
+        {/* VSL */}
         <div className="video-container">
           <div className="video-wrapper">
-            <video controls poster="">
-              <source src="" type="video/mp4" />
+            <video controls poster="" autoPlay muted>
+              <source src="https://files.catbox.moe/mn9oyf.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
           </div>
