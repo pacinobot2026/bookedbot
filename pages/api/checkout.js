@@ -13,6 +13,7 @@ export default async function handler(req, res) {
       headers: {
         'Authorization': `Bearer ${STRIPE_SECRET_KEY}`,
         'Stripe-Account': STRIPE_ACCOUNT_ID,
+        'Stripe-Version': '2024-06-20',
         'Content-Type': 'application/x-www-form-urlencoded',
       },
       body: new URLSearchParams({
